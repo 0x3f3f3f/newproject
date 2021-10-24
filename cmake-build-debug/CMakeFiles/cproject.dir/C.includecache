@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/cproject/main.c
+max.h
+F:/cproject/max.h
+stdio.h
+F:/cproject/stdio.h
+string.h
+F:/cproject/string.h
+
+F:/cproject/max.h
+
